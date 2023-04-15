@@ -14,12 +14,7 @@ npx hardhat run scripts/deploy.js
 
 Dependencies:
 
-`ethereumjs-tx`: used for creating Ethereum transactions
-`ethereumjs-util`: used for encoding and decoding Ethereum addresses and other data types
-`web3`: used for interacting with Ethereum nodes
-`dotenv`: used for loading environment variables
-`express`: used for building a web API
-`body-parser`: used for parsing HTTP request bodies
-`cors`: used for enabling Cross-Origin Resource Sharing (CORS)
+`ethereumjs-tx`: used for creating Ethereum transactions`ethereumjs-util`: used for encoding and decoding Ethereum addresses and other data types`web3`: used for interacting with Ethereum nodes`dotenv`: used for loading environment variables`express`: used for building a web API`body-parser`: used for parsing HTTP request bodies`cors`: used for enabling Cross-Origin Resource Sharing (CORS)
 
+w
 w
